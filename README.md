@@ -6,6 +6,9 @@ Created in 2025 as part of my journey into software development.
 
 The site features responsive design, smooth animations, and lightweight performance thanks to Vite's fast bundling.
 
+![Portfolio Screenshot](src/assets/Portfolio.png)
+
+
 ---
 
 ## Tech Stack
