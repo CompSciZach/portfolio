@@ -18,8 +18,8 @@ export default function Projects() {
         title: "Portfolio Website",
         description: "My portfolio site built with React.js and Vite.js, made to highlight my work and skills with fast loading.",
         image: "/src/assets/Portfolio.png",
-        tags: ["React.js", "Vite.js"],
-        githubUrl: "https://github.com/CompSciZach/GenPass-PasswordGenerator",
+        tags: ["React.js", "Vite.js", "TypeScript"],
+        githubUrl: "https://github.com/CompSciZach/portfolio",
       },
     ];
   
