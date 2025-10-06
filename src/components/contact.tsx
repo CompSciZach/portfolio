@@ -16,7 +16,7 @@ export default function Contact() {
             href="https://github.com/CompSciZach" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="social-link github"    // <-- Add github class
+            className="social-link github"   
           >
             <img 
               src={githubIcon} 
