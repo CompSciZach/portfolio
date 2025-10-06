@@ -1,0 +1,49 @@
+{
+  "hash": "b4b98257",
+  "configHash": "ebc286bf",
+  "lockfileHash": "d207e344",
+  "browserHash": "8cffd2d4",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "df2b330a",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "45a2700c",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "730d471f",
+      "needsInterop": true
+    },
+    "react-tsparticles": {
+      "src": "../../node_modules/react-tsparticles/esm/index.js",
+      "file": "react-tsparticles.js",
+      "fileHash": "a7b1bbad",
+      "needsInterop": false
+    },
+    "tsparticles": {
+      "src": "../../node_modules/tsparticles/esm/index.js",
+      "file": "tsparticles.js",
+      "fileHash": "48812134",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-KS2M7ZJI": {
+      "file": "chunk-KS2M7ZJI.js"
+    },
+    "chunk-NDFAFIVL": {
+      "file": "chunk-NDFAFIVL.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}
